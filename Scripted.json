@@ -1,0 +1,8 @@
+{
+	"PresetQuestion" :[{"Questions" : [ "How are you", "Hey, how are you, I hope you're doing well", "What are you up to today" ],
+	"Answer" : [ "I'm doing great!", "I'm having the best day ever.", "I'm feeling so energized, I could run a marathon."]},
+	
+	{"Questions" : [ "How are you", "Hey, how are you, I hope you're doing well", "What are you up to today" ],
+	"Answer" : [ "I'm doing great!", "I'm having the best day ever.", "I'm feeling so energized, I could run a marathon."]}]
+
+}
